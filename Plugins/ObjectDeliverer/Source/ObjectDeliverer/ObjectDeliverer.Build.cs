@@ -20,8 +20,9 @@ namespace UnrealBuildTool.Rules
                     "Sockets",
                     "Networking",
                     "Json",
-                    "JsonUtilities"
-                }
+                    "JsonUtilities",
+					"WebSockets"
+				}
 				);
 
 			PrivateDependencyModuleNames.AddRange(
